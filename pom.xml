@@ -77,7 +77,7 @@
     </developers>
 
     <properties>
-        <version.log4j>2.5</version.log4j>
+        <version.log4j>2.13.2</version.log4j>
         <version.junit>4.12</version.junit>
         <version.guava>19.0</version.guava>                 <!-- testing only -->
         <version.json.io>4.9.0</version.json.io>            <!-- testing only -->
